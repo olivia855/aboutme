@@ -1,0 +1,42 @@
+header {
+    background-image: url('cardboard.jpg');
+    color: #333;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+nav {
+    background-color: white;
+    padding: 10px;
+    border-bottom: 1px solid #e5e5e5,
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+div ul li {
+    display: inline;
+}
+
+arrow {
+    nav {
+        background-color: white;
+        padding: 10px;
+        border-bottom: 1px solid #e5e5e5,
+    }
+}
